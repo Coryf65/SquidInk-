@@ -1,0 +1,11 @@
+{
+    "name": "SquidInk",
+    "version": "0.2.2",
+    "title": "Squid Ink",
+    "author": "Cory",
+    "contact": "http://steamcommunity.com/id/hiddensquid_/",
+    "homepage": "http://steamcommunity.com/id/hiddensquid_/",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "Squid Ink adds a Upgraded Electric Furnace and Squid Plates to craft it."
+}
